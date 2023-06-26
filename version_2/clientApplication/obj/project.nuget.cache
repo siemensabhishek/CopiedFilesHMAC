@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvEU5nbL5Uow0Z+LLr8PQyMGl8x345MD9ZVUMof69V0e1GDsxBnnDPYPwr3RUf/T7++5gIC90DqYEcyd5YnuJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z004rf0a\\Desktop\\HMAC\\Cient Application Core\\clientApplication\\clientApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\softaware.authentication.hmac\\2.0.0\\softaware.authentication.hmac.2.0.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\softaware.authentication.hmac.client\\2.0.1\\softaware.authentication.hmac.client.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
